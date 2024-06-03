@@ -24,3 +24,4 @@ While the source code for the website is not publicly available, we welcome sugg
 
 If you have any questions or comments about Basenotes, please [contact us here](https://basenotes.com/contact-us/).
 
+![Perfume Footer](https://basenotes.com/assets/newbackdrop3.png)
