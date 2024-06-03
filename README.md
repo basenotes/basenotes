@@ -1,16 +1,26 @@
-## Hi there 👋
+# Basenotes.com
 
-<!--
-**basenotes/basenotes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the public repository for [Basenotes.com](https://basenotes.com), a website dedicated to building and awesome perfume community and knowledge repository.
 
-Here are some ideas to get you started:
+## Feature Requests and Reporting Issues
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+We welcome users to report any issues they encounter while using the website, or if they have any feature requests. 
+
+You can either do this on the Basenotes website [using this forum here](https://basenotes.com/community/forums/bugs-missing-features-and-suggestions.322/), or if you are familiar with Github, you can create an issue here.
+
+1. Click on the "Issues" tab in this repository.
+2. Click on the "New issue" button.
+3. Provide a descriptive title for the issue.
+4. Describe the issue in detail, including the steps to reproduce it, the expected behavior, and the actual behavior. If possible, include screenshots or screen recordings to illustrate the issue.
+5. Click "Submit new issue".
+
+We appreciate your help in improving Basenotes!
+
+## Contributing
+
+While the source code for the website is not publicly available, we welcome suggestions for improvements. If you have a suggestion, please open a new issue and describe your idea in detail.
+
+## Contact
+
+If you have any questions or comments about Basenotes, please [contact us here](https://basenotes.com/contact-us/).
+
