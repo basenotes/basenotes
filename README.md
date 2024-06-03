@@ -1,6 +1,6 @@
 # Basenotes.com
 
-This is the public repository for [Basenotes.com](https://basenotes.com), a website dedicated to building and awesome perfume community and knowledge repository.
+This is the public repository for [Basenotes.com](https://basenotes.com), a website dedicated to building an awesome perfume community and knowledge repository.
 
 ## Feature Requests and Reporting Issues
 
