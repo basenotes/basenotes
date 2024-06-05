@@ -8,7 +8,7 @@ We welcome users to report any issues they encounter while using the website, or
 
 You can either do this on the Basenotes website [using this forum here](https://basenotes.com/community/forums/bugs-missing-features-and-suggestions.322/), or if you are familiar with Github, you can create an issue here.
 
-1. Click on the "Issues" tab in this repository.
+1. Click on the "[Issues](https://github.com/basenotes/basenotes/issues)" tab in this repository.
 2. Click on the "New issue" button.
 3. Provide a descriptive title for the issue.
 4. Describe the issue in detail, including the steps to reproduce it, the expected behavior, and the actual behavior. If possible, include screenshots or screen recordings to illustrate the issue.
